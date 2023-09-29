@@ -68,3 +68,4 @@ while True:
     if maze[current_position[0]][current_position[1]] == 8:
         print("Congratulations! You have reached the exit.")
         break
+##因为昨天复阳了，吊了一天水，所以基本上没学什么，代码是ChatGPT跑的，我调试了几遍不能实现功能，但是因为基础薄弱暂时找不出解决办法，后面等身体恢复了会尽快解题的！
